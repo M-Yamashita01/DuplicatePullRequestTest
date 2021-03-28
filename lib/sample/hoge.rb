@@ -6,4 +6,5 @@ class Hoge
 
   def subtract(x, y)
     x -y
+  end
 end
