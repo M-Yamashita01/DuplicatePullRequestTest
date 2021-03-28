@@ -8,7 +8,7 @@ describe 'Hoge' do
     end
 
     it "Add number2" do
-      expect(Hoge.new.add(3, 4)).to eq 7
+      expect(Hoge.new.add(3, 4)).to eq 0
     end
   end
 end
